@@ -1,0 +1,13 @@
+# Comando básicos p/ Windows
+
+cd - navegar para um local específico do sistema
+dir - lista de diretórios contidas na pasta
+mkdir - criar uma pasta
+del/rmdir - deletar um arquivo / repositorio inteiro
+
+echo - criar um arquivo
+ctrl+L - limpar o terminal
+
+# SHA1
+A sigla significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA).
+A encriptação gera um conjunto de caracteres identificador de 40 dígitos. É uma forma curta de representar um arquivo.
